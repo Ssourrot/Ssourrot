@@ -2,9 +2,7 @@
 <head>
             <p align='center'>
                         <img src='https://file.garden/aZdJcvx-rR3kJeld/bonezzzz.webp'>
-                        <p>
                         <img src='https://file.garden/aZdJcvx-rR3kJeld/bonezzzz.webp'>
-                                    </p>
             <p align= "center">
             <img src='https://file.garden/aZdJcvx-rR3kJeld/yoyomonkey.gif'>
                         <p align= "center">
