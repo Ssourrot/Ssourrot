@@ -2,7 +2,8 @@
 <br>
 ılı.lıllılıı.ıllı. ▀▄▀▄▀▄
 <br>
-<p align="right" 𓂃 ⸝⸝  rain! ᯓ★ 🎸˖ ࣪</p>
+<p align= "center">
+            𓂃 ⸝⸝  rain! ᯓ★ 🎸˖ ࣪
 <br>
 <p>▀▄▀▄▀▄୧ ‧₊˚ </p>
 <br>
