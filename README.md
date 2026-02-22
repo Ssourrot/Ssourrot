@@ -30,6 +30,7 @@
             <br>
 <p align= "center">
             𓍼 ☘︎ I love emo boy bands and glitter.
+            !!I eat yuri for breakfast!!
 <br>
 <p align= "center">
             .✦ ݁˖\|°▿▿▿▿°|/♬⋆.˚
