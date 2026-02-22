@@ -1,5 +1,5 @@
 ## Big balls.tm
-<head>img src= url('https://file.garden/aZdJcvx-rR3kJeld/WLKCGWHSIWBO5LGKYQLKSIU5CVPEK3NJ.gif')</head>
+<head>img src='https://file.garden/aZdJcvx-rR3kJeld/WLKCGWHSIWBO5LGKYQLKSIU5CVPEK3NJ.gif'</head>
 <br>
 <p align= "center">
 ılı.lıllılıı.ıllı. ▀▄▀▄▀▄
