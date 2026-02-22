@@ -1,5 +1,5 @@
 ## Big balls.tm
-<head><img src='https://file.garden/aZdJcvx-rR3kJeld/monkey-in-love.gif'></head>
+<head><img src='https://file.garden/aZdJcvx-rR3kJeld/yoyomonkey.gif'></head>
 <br>
 <p align= "center">
 ılı.lıllılıı.ıllı. ▀▄▀▄▀▄
