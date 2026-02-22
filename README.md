@@ -1,5 +1,6 @@
 ## Big balls.tm
 <br>
+<p align= "center">
 ılı.lıllılıı.ıllı. ▀▄▀▄▀▄
 <br>
 <p align= "center">
@@ -9,9 +10,11 @@
 <br>
             <p>♯┆⛓️⚡️🦈</p>
             <br>
-<p>𓍼 ☘︎ I love emo boy bands and glitter.</p>
+<p align= "center">
+            𓍼 ☘︎ I love emo boy bands and glitter.
 <br>
-<p>\|°▿▿▿▿°|/</p>
+<p align= "center">
+            \|°▿▿▿▿°|/
 
 
 <!--
