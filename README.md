@@ -1,8 +1,7 @@
 ## Big balls.tm
 <head>
-            <p align='ceter'>
+            <p align='center'>
                         <img src='https://file.garden/aZdJcvx-rR3kJeld/bonezzzz.webp'>
-                        <image-repeat: repeat;>
             <p align= "center">
             <img src='https://file.garden/aZdJcvx-rR3kJeld/yoyomonkey.gif'>
                         <p align= "center">
