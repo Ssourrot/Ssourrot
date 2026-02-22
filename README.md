@@ -30,7 +30,7 @@
 <p align= "center">
             \|°▿▿▿▿°|/
 <br><br>
-<p><img src='https://file.garden/aZdJcvx-rR3kJeld/1075635dgyffglujq.gif'></p>
+<p><img src='https://file.garden/aZdJcvx-rR3kJeld/email.gif'></p>
 
 
 <!--
