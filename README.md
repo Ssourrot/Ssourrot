@@ -1,5 +1,12 @@
 ## Big balls.tm
 <head>
+    <link rel="icon" type="image/png" href="https://sourrot.neocities.org/images/1173752764233416795.png">
+        <title>
+    SOURROT
+        </title>
+    <link rel="stylesheet"href="balls.css">   
+    </head>
+<body>
             <p align='center'>
                         <img src='https://file.garden/aZdJcvx-rR3kJeld/bonezzzz.webp'>
                         <img src='https://file.garden/aZdJcvx-rR3kJeld/bonezzzz.webp'>
@@ -10,7 +17,7 @@
             <img src='https://file.garden/aZdJcvx-rR3kJeld/tumblr_9b46297d0173b982d3d7edbad13753e2_0f8b58f9_1280.webp'>
                         <p align= "center">
  <img src='https://file.garden/aZdJcvx-rR3kJeld/XKRS5TTIPXVTL4XLBT56PFMF2XOZDLBG.gif'>
-</head>
+</body>
 <br>
 <p align= "center">
 ılı.lıllılıı.ıllı. ▀▄▀▄▀▄
