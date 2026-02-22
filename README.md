@@ -6,9 +6,11 @@
 <p align= "center">
             𓂃 ⸝⸝  rain! ᯓ★ 🎸˖ ࣪
 <br>
-<p>▀▄▀▄▀▄୧ ‧₊˚ </p>
+<p align= "center">
+            ▀▄▀▄▀▄୧ ‧₊˚
 <br>
-            <p>♯┆⛓️⚡️🦈</p>
+<p align= "center">
+            ♯┆⛓️⚡️🦈
             <br>
 <p align= "center">
             𓍼 ☘︎ I love emo boy bands and glitter.
