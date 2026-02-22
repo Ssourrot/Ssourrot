@@ -1,6 +1,5 @@
 ## Big balls.tm
 <head>
-            <p><img src='https://file.garden/aZdJcvx-rR3kJeld/tumblr_62fd738066d0a9059e08e537c070d122_fada3748_250.png'><width: 50px></p>
             <p align='center'>
                         <img src='https://file.garden/aZdJcvx-rR3kJeld/bonezzzz.webp'>
                         <img src='https://file.garden/aZdJcvx-rR3kJeld/bonezzzz.webp'>
