@@ -9,7 +9,6 @@
             <p align= "center">
             <img src='https://file.garden/aZdJcvx-rR3kJeld/tumblr_9b46297d0173b982d3d7edbad13753e2_0f8b58f9_1280.webp'>
                         <p align='center'>
-                                    <img src='https://file.garden/aZdJcvx-rR3kJeld/KLRY6WH7ZXUCDRPMJUAN2FPZKWPTA2UH.gif'>
                                     <img src='https://file.garden/aZdJcvx-rR3kJeld/ezgif-1de306fe0dae61bc.gif'>
                                     <img src='https://file.garden/aZdJcvx-rR3kJeld/text%20(1).gif'>
                                     </p>
