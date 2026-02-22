@@ -1,6 +1,4 @@
 ## Big balls.tm
-<!DOCTYPE html>
-<html>
 <body>
             <p align='center'>
                         <img src='https://file.garden/aZdJcvx-rR3kJeld/bonezzzz.webp'>
@@ -34,7 +32,6 @@
 <br><br>
 <p><img src='https://file.garden/aZdJcvx-rR3kJeld/24.gif'></p>
 
-</html>
 <!--
 **Ssourrot/Ssourrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
