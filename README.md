@@ -1,4 +1,10 @@
-## Hi there 👋
+## ılı.lıllılıı.ıllı. ▀▄▀▄▀▄
+𓂃 ⸝⸝  rain! ᯓ★ 🎸˖ ࣪
+▀▄▀▄▀▄୧ ‧₊˚ 
+            ♯┆⛓️⚡️🦈
+𓍼 ☘︎ I love emo boy bands and glitter.
+\|°▿▿▿▿°|/
+
 
 <!--
 **Ssourrot/Ssourrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
