@@ -3,6 +3,9 @@
             <p align='center'>
                         <img src='https://file.garden/aZdJcvx-rR3kJeld/bonezzzz.webp'>
                         <img src='https://file.garden/aZdJcvx-rR3kJeld/bonezzzz.webp'>
+                        <img src='https://file.garden/aZdJcvx-rR3kJeld/bonezzzz.webp'>
+                        <img src='https://file.garden/aZdJcvx-rR3kJeld/bonezzzz.webp'>
+                        <img src='https://file.garden/aZdJcvx-rR3kJeld/bonezzzz.webp'>
             <p align= "center">
             <img src='https://file.garden/aZdJcvx-rR3kJeld/yoyomonkey.gif'>
                         <p align= "center">
