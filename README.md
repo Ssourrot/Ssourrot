@@ -1,9 +1,7 @@
 ## Big balls.tm
 <head>
     <link rel="icon" type="image/png" href="https://sourrot.neocities.org/images/1173752764233416795.png">
-        <title>
-    SOURROT
-        </title>
+<title>SOURROT</title>
     <link rel="stylesheet"href="balls.css">   
     </head>
 <body>
