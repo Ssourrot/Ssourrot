@@ -32,7 +32,7 @@
             𓍼 ☘︎ I love emo boy bands and glitter.
 <br>
 <p align= "center">
-            \|°▿▿▿▿°|/
+            .✦ ݁˖\|°▿▿▿▿°|/♬⋆.˚
 <br><br>
  <p align="center">
 <img src='https://file.garden/aZdJcvx-rR3kJeld/VEWXDKH4TD6IMEJFDN2ZRBPPGFZQOLZI.gif'>
