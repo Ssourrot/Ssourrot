@@ -2,7 +2,7 @@
 <head>
             <p align='ceter'>
                         <img src='https://file.garden/aZdJcvx-rR3kJeld/bonezzzz.webp'>
-                        <background-repeat: repeat;>
+                        <image-repeat: repeat;>
             <p align= "center">
             <img src='https://file.garden/aZdJcvx-rR3kJeld/yoyomonkey.gif'>
                         <p align= "center">
