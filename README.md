@@ -13,7 +13,7 @@
 </body>
 <br>
 <p align= "center">
-ılı.lıllılıı.ıllı. ▀▄▀▄▀▄
+ılıılıılıılıılılıılıılıılıılılıılıılıılıılılıılıılıılıılılıılıılıılıılılıılıılıılıılı ▀▄▀▄▀▄
 <br>
 <p align= "center">
             𓂃 ⸝⸝  rain! ᯓ★ 🎸˖ ࣪
