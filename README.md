@@ -7,7 +7,7 @@
                         <img src='https://file.garden/aZdJcvx-rR3kJeld/bonezzzz.webp'>
                         <img src='https://file.garden/aZdJcvx-rR3kJeld/bonezzzz.webp'>
             <p align= "center">
-            <img src='https://file.garden/aZdJcvx-rR3kJeld/yoyomonkey.gif'>
+            <img src='https://file.garden/aZdJcvx-rR3kJeld/tumblr_9b46297d0173b982d3d7edbad13753e2_0f8b58f9_1280.webp'>
                         <p align= "center">
  <img src='https://file.garden/aZdJcvx-rR3kJeld/XKRS5TTIPXVTL4XLBT56PFMF2XOZDLBG.gif'>
 </head>
