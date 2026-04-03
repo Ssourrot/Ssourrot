@@ -31,10 +31,13 @@
             <br>
 <p align= "center">
             𓍼 ☘︎ I love emo boy bands and glitter.
-            !!I eat yuri for breakfast!!
+            THEY/THEM
 <br>
 <p align= "center">
             .✦ ݁˖\|°▿▿▿▿°|/♬⋆.˚
+<br>
+<a href="https://chasinggrace.straw.page">strwpg
+</a>
 <br><br>
  <p align="center">
 <img src='https://file.garden/aZdJcvx-rR3kJeld/VEWXDKH4TD6IMEJFDN2ZRBPPGFZQOLZI.gif'>
