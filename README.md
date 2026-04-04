@@ -31,7 +31,6 @@
             <br>
 <p align= "center">
             𓍼 ☘︎ I love emo boy bands and glitter.
-            THEY/THEM
 <br>
 <p align= "center">
             .✦ ݁˖\|°▿▿▿▿°|/♬⋆.˚
