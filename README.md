@@ -36,7 +36,7 @@
 <p align= "center">
             .✦ ݁˖\|°▿▿▿▿°|/♬⋆.˚
 <br>
-<a href="https://chasinggrace.straw.page">strwpg
+<a href="https://scholarsmate.straw.page">strwpg
 </a>
 <br><br>
  <p align="center">
