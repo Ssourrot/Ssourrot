@@ -35,7 +35,7 @@
 <p align= "center">
             .✦ ݁˖\|°▿▿▿▿°|/♬⋆.˚
 <br>
-<a href="https://scholarsmate.straw.page"><img src=https://github.com/Ssourrot/Ssourrot/blob/ca0c62de8f306f88403a7eb8ac40ff6e7c20b31f/uhh-removebg-preview.png" </a>  &nbsp; <a href="https://guns.lol/sourrot">guns
+<a href="default.asp"><img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;"></a>  &nbsp; <a href="https://guns.lol/sourrot">guns
 </a>        
             
 <br><br>
