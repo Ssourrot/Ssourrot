@@ -35,7 +35,7 @@
 <p align= "center">
             .✦ ݁˖\|°▿▿▿▿°|/♬⋆.˚
 <br>
-<a href="https://scholarsmate.straw.page"><img src="https://github.com/Ssourrot/Ssourrot/blob/e2fa4e54bc59c5a839a3b1f9f13e5cedd6ade348/uhh-removebg-preview.png" alt="strwpg" style="width:64px;height:64px;"></a>  &nbsp; <a href="https://guns.lol/sourrot"><img src="https://file.garden/aZdJcvx-rR3kJeld/b47b1760dafe00cf030c4513415d0add.gif" alt="guns" style="width:64px;height:64px;"></a> 
+<a href="https://scholarsmate.straw.page"><img src="https://github.com/Ssourrot/Ssourrot/blob/e2fa4e54bc59c5a839a3b1f9f13e5cedd6ade348/uhh-removebg-preview.png" alt="strwpg" style="width:64px;height:64px;"></a>  &nbsp; <a href="https://guns.lol/sourrot"><img src="https://file.garden/aZdJcvx-rR3kJeld/circus" alt="guns" style="width:64px;height:64px;"></a> 
 </a>        
             
 <br><br>
