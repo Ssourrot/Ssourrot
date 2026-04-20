@@ -1,6 +1,7 @@
 ## Big balls™
 <!-- I'm literally a noob-->
-<head><style>
+<head>
+<style>
 a:link {
   color: green;
   background-color: transparent;
@@ -24,7 +25,8 @@ a:active {
   background-color: transparent;
   text-decoration: underline;
 }
-</style> </head>
+</style> 
+</head>
 <body>
             <p align='center'>
                         <img src='https://file.garden/aZdJcvx-rR3kJeld/bonezzzz.webp'>
