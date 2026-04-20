@@ -35,11 +35,9 @@
 <p align= "center">
             .✦ ݁˖\|°▿▿▿▿°|/♬⋆.˚
 <br>
-<a href="https://scholarsmate.straw.page">strwpg
-</a>
+<a href="https://scholarsmate.straw.page">strwpg |  <a href="https://guns.lol/sourrot">guns
+</a>        
             
-<a href="https://guns.lol/sourrot">guns
-</a>
 <br><br>
  <p align="center">
 <img src='https://file.garden/aZdJcvx-rR3kJeld/VEWXDKH4TD6IMEJFDN2ZRBPPGFZQOLZI.gif'>
