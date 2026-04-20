@@ -39,7 +39,7 @@
 
 <br>
 <p align= "center">
-Click above links for more info
+↑❥ more info
 </p>
 </br>
             
