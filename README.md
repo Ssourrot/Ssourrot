@@ -39,7 +39,7 @@
 
 <br>
 <p align= "center">
-↑❥ more info
+↑❥ click bunny for more info
 </p>
 </br>
             
